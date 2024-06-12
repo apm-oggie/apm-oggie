@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apm-oggie" alt="apm-oggie" /></a> </p>
 
-- 🔭 I’m currently working on **Network Intrusion Detection**
+- 🔭 I’m currently working on [Research paper of Network Intrusion Detection System](https://github.com/apm-oggie/Network-Intrusion-Detection)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Theano, CUDA Toolkit**
+
+- 👨‍💻 All of my projects are available at [https://github.com/apm-oggie/Aditya-s-Portfolio](https://github.com/apm-oggie/Aditya-s-Portfolio)
 
 - 💬 Ask me about **ReactJS,Python,Tensorflow,Keras,SpyderPy**
 
