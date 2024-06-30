@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITYA SHARMA</h1>
-<h3 align="center">Software Engineer Passionate About AI and Machine Learning.</h3>
+<h3 align="center">Software Developer Passionate About AI and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apm-oggie&label=Profile%20views&color=0e75b6&style=flat" alt="apm-oggie" /> </p>
 
