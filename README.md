@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apm-oggie&show_icons=true&locale=en" alt="apm-oggie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apm-oggie&" alt="apm-oggie" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=apm-oggie&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=apm-oggie&label=Profile%20Views&pretty=true" />
+</a>
