@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **ReactJS,Python,Tensorflow,Keras,SpyderPy**
 
-- 📫 How to reach me **renusharma31179@gmail.com**
+- 📫 How to reach me **toaadityasharma3@gmail.com**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IVjyxRZmvzxK5Zno1dQNxE0jtGT5mrNb/view?usp=drivesdk](https://drive.google.com/file/d/1IVjyxRZmvzxK5Zno1dQNxE0jtGT5mrNb/view?usp=drivesdk)
 
