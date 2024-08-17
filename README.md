@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Research paper of Network Intrusion Detection System](https://github.com/apm-oggie/Network-Intrusion-Detection)
 
-- 🌱 I’m currently learning **Theano, CUDA Toolkit**
+- 🌱 I’m currently learning **Theano, LLM, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apm-oggie/Aditya-s-Portfolio](https://github.com/apm-oggie/Aditya-s-Portfolio)
 
